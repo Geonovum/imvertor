@@ -12,3 +12,4 @@ De tabel kan nog worden uitgebreid met andere gegevens, bv in welk project ze Im
 |JvE | Nee|
 |GT | Nee|
 |PM | Nee|
+|WQ | Nee|
