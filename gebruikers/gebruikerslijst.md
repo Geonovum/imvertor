@@ -4,11 +4,11 @@ De tabel kan nog worden uitgebreid met andere gegevens, bv in welk project ze Im
 
 | Naam | aanspreekpunt | 
 |------|---------------|
-|Linda van den Brink | Ja|
-|Paul Janssen | Ja|
-|Arnoud de Boer | Nee|
-|Wijnand van Riel | Ja|
-|Gabriella Wiersma | Nee|
-|Joeri van Es | Nee|
-|Gerard Trouborst | Nee|
-|Pano Maria | Nee|
+|LvdB | Ja|
+|PJ | Ja|
+|AdB | Nee|
+|WvR | Ja|
+|GW | Nee|
+|JvE | Nee|
+|GT | Nee|
+|PM | Nee|
