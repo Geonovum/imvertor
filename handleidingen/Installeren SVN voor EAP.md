@@ -17,22 +17,23 @@ Als je SVN Tortoise nog niet hebt, installeer deze van
 
 Stap 1: Folder op svn.geostandaarden.nl
 
-Maak of laat maken, op svn.geostandaarden.nl een folder aan met de naam van het
-model. Een voordehand liggende naam van de folder: imxx
+Maak of laat maken, op svn.geostandaarden.nl een folder met de naam van het
+model. Een voor de hand liggende naam van de folder: imxx
 
 Stap 2: SVN folder op je werk pc/laptop
 
-Maak op je werk pc een folder aan waar de SVN bestanden naar toe worden
+Maak op je werk-pc een folder aan waar de SVN bestanden naar toe worden
 geschreven. svn.geostandaarden.nl/imxx synchroniseert met deze folder. Een naam
 voor deze folder is bijvoorbeeld ‘svn’ met als subfolder imxx. De folder waarmee
 gesynchroniseerd gaat worden is dan dus ‘svn/imxx’
 
 Stap 3: svn/imxx folder relateren aan svn.geostandaaren.nl
 
-![](media/739851a1c60b46f89185ff8fdf7a78d8.png)
-
 Klik met rechtermuis op de svn/imxx folder. Select ‘SVN checkout…. ‘. Selecteer
-de juiste URL en checkout directory
+de juiste URL en checkout directory. De checkout directory is de folder gemaakt
+in stap 2.
+
+![](media/739851a1c60b46f89185ff8fdf7a78d8.png)
 
 Stap 4: Breng EAP bestand(packages) onder SVN.
 
@@ -52,7 +53,7 @@ Vul in:
 Unique ID: zelf gekozen unieke aanduiding voor de package onder version control.
 Voorstel: naam van het package.
 
-Working Copy Path: Selecteer de folder waar de locale SVN gegevens worden
+Working Copy Path: Selecteer de folder waar de lokale SVN gegevens worden
 weggeschreven. Dit is de folder uit stap 2.
 
 ![](media/b8528b285de250d7294807ec11dfde30.png)
