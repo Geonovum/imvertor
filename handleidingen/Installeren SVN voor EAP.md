@@ -22,15 +22,15 @@ model. Een voor de hand liggende naam van de folder: imxx
 
 Stap 2: SVN folder op je werk pc/laptop
 
-Maak op je werk-pc een folder aan waar de SVN bestanden naar toe worden
+Maak in een lokale map op je werk-pc een folder aan waar de SVN bestanden naar toe worden
 geschreven. svn.geostandaarden.nl/imxx synchroniseert met deze folder. Een naam
 voor deze folder is bijvoorbeeld ‘svn’ met als subfolder imxx. De folder waarmee
 gesynchroniseerd gaat worden is dan dus ‘svn/imxx’
 
 Stap 3: svn/imxx folder relateren aan svn.geostandaaren.nl
 
-Klik met rechtermuis op de svn/imxx folder. Select ‘SVN checkout…. ‘. Selecteer
-de juiste URL en checkout directory. De checkout directory is de folder gemaakt
+Klik met rechtermuis op de leegte in de lokale net-aangemaakte svn/imxx folder. Select ‘SVN checkout…. ‘. Kopieer
+de URL van de online svn folder (svn//svn.geostandaarden.nl/imxx) en checkout directory. De checkout directory is de folder gemaakt
 in stap 2.
 
 ![](media/739851a1c60b46f89185ff8fdf7a78d8.png)
