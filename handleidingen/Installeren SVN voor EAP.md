@@ -58,6 +58,8 @@ weggeschreven. Dit is de folder uit stap 2.
 
 ![](media/b8528b285de250d7294807ec11dfde30.png)
 
+LET OP: Het kan dat er geen svn.exe aanwezig is ...... Los op met download van SLIKSVN.COM
+
 Klik op ‘save’ en ‘close’
 
 4D)Package onder version control brengen
